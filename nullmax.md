@@ -39,12 +39,12 @@
   
  听说部门领导对下面的人说，公司统一都会签署五提倡五不提倡。
  
- 有同事在别人办公桌拍到的，笑死人了，这个格局。
+ 有同事在别人办公桌拍到的，笑死人了，这格局，真的很大。
  
  消息更正一下，听说是数据平台中心下面的感知集成组要签署的。工作这么多年，第一次见到这玩意。
 
- https://github.com/bupingshi-del/picture/blob/main/1.png
 
- https://github.com/bupingshi-del/picture/blob/main/2.png
+![Raw GitHub Image](https://raw.githubusercontent.com/bupingshi-del/picture/main/1.png)
+![Raw GitHub Image](https://raw.githubusercontent.com/bupingshi-del/picture/main/2.png)
  
- https://github.com/bupingshi-del/picture/blob/main/1.png
+
