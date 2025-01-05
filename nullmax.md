@@ -34,3 +34,17 @@
  8.绩效下滑：整体生产力下降，目标达成率降低，产品质量问题增加等都是组织氛围不良可能导致的结果。
 
  9.社交孤立：部分员工可能感觉到被排挤或孤立，特别是在多元文化或跨部门协作的情境下，当某些群体得不到应有的接纳时，就容易产生疏离感。
+
+  ### 五提倡五不提倡
+  
+ 听说部门领导对下面的人说，公司统一都会签署五提倡五不提倡。
+ 
+ 有同事在别人办公桌拍到的，笑死人了，这个格局。
+ 
+ 消息更正一下，听说是数据平台中心下面的感知集成组要签署的。工作这么多年，第一次见到这玩意。
+
+ https://github.com/bupingshi-del/picture/blob/main/1.png
+
+ https://github.com/bupingshi-del/picture/blob/main/2.png
+ 
+ https://github.com/bupingshi-del/picture/blob/main/1.png
